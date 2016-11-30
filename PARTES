@@ -1,0 +1,82 @@
+Partlist
+
+Exported from TOOLKIT_CON_ETIQ.brd at 15/11/2016 08:17:48 p.m.
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part        Value          Package       Library             Position (mm)         Orientation
+
+C1          22 pF          C050-024X044  rcl                 (18.47 82.09)         R90
+C2          22 pF          C050-024X044  rcl                 (18.53 75.73)         R270
+C3          1 uF           E2,5-6E       rcl                 (65.56 96.01)         R0
+C4          100 nF         C050-025X075  rcl                 (82.71 89.6)          R90
+C5          1 uF           E2,5-6E       rcl                 (84.41 96.2)          R270
+C6          100 nF         C050-025X075  rcl                 (67.99 80.19)         R270
+C7          470 uF         E2,5-6E       rcl                 (6.66 89.05)          R90
+C8          100 nF         C050-025X075  rcl                 (6.27 81.87)          R90
+C9          100 nF         C050-025X075  rcl                 (4.01 65.8)           R180
+C10         100 nF         C050-025X075  rcl                 (12 65.71)            R0
+C11         10 nF          C050-025X075  rcl                 (97.19 42.32)         R90
+C12         100 uF         E2,5-6E       rcl                 (103.01 43.88)        R270
+D1          1N4004         DO41-10       diode               (105.24 88.31)        R180
+D2          1N4004         DO41-10       diode               (117.39 88.29)        R0
+D3          1N4004         DO41-10       diode               (1.91 86.39)          R90
+IC1         ATMEGA328-20P  DIL28-3       atmega328           (33.13 76.15)         R270
+IC2         1/4 LM324      DIL14         linear              (75.33 86.73)         R270
+IC4         LM7805         TO220V        linear              (4.6 73)              R270
+IC5         DS1820         TO-92         DS1820              (65.46 63.41)         R0
+IC6         1/4 LMC6484    DIL14         linear              (94.26 56.27)         R180
+LED1        IR             LED3MM        adafruit            (50.29 92.02)         R180
+LED2        RED            LED3MM        adafruit            (2.2 60.23)           R270
+LED3        GREEN          LED3MM        adafruit            (66.61 73.28)         R0
+LED4        BLUE           LED3MM        adafruit            (108.18 45.05)        R270
+LED5        BLUE           LED3MM        adafruit            (93.29 87.18)         R0
+LED6        BLUE           LED3MM        adafruit            (70.53 63.78)         R0
+LED7        BLUE           LED3MM        adafruit            (52.17 87.28)         R0
+Q1          2N2222A        TO92-EBC      transistor-neu-to92 (103.6 82.04)         R180
+Q2          2N2222A        TO92-EBC      transistor-neu-to92 (117.66 81.94)        R180
+Q3          2N2222A        TO92-EBC      transistor-neu-to92 (57.04 80.58)         R90
+R1          10 k           0207/10       rcl                 (21.97 91.31)         R0
+R2          220 r          0207/10       rcl                 (54.87 98.31)         R0
+R3          39 k           0207/10       rcl                 (54.75 95.81)         R180
+R4          68 k           0207/10       rcl                 (63.55 91.71)         R180
+R5          8.2 k          0207/10       rcl                 (75.55 97.29)         R0
+R6          68 k           0207/10       rcl                 (87.01 89.85)         R90
+R7          10k            0207/10       rcl                 (74.85 75.81)         R180
+R8          470k           0207/10       rcl                 (64.51 80.35)         R90
+R9          1.5 k          0207/10       rcl                 (61.87 80.45)         R270
+R10         220 r          0207/10       rcl                 (6.15 56.65)          R180
+R11         2.2 k          0207/10       rcl                 (21.83 60.75)         R90
+R12         4.7 k          0207/10       rcl                 (18.93 60.75)         R90
+R13         4.7 k          0207/10       rcl                 (65.65 60.27)         R0
+R14         6.8 k          0207/10       rcl                 (93.63 68.95)         R90
+R15         4.7 k          0207/10       rcl                 (97.65 68.95)         R90
+R16         220 r          0207/10       rcl                 (100.85 68.85)        R270
+R17         100 k          0207/10       rcl                 (94.15 44.35)         R90
+R18         10 k           0207/10       rcl                 (71.55 47.25)         R180
+R19         10 k           0207/10       rcl                 (83.35 43.35)         R180
+R20         100 k          0207/10       rcl                 (91.65 44.35)         R270
+R21         220 r          0207/10       rcl                 (74.85 73.13)         R0
+R22         220 r          0207/10       rcl                 (67.35 43.93)         R0
+R23         220 r          0207/10       rcl                 (109.73 78.35)        R270
+R24         220 r          0207/10       rcl                 (113.03 78.45)        R270
+R25         10 k           0207/10       rcl                 (36.57 50.45)         R90
+R26         10 k           0207/10       rcl                 (46.57 50.25)         R90
+R27         10 k           0207/10       rcl                 (55.79 50.05)         R90
+SV1                        MA05-1        con-lstb            (18.58 97.59)         R0
+SV2                        MA03-1        con-lstb            (107.64 58.12)        R90
+SV3                        MA04-1        con-lstb            (40.35 97.56)         R0
+SW1                        TACT_PANA-EVQ adafruit            (19.09 88.16)         R0
+SW2                        TACT_PANA-EVQ adafruit            (32.09 50.22)         R90
+SW3                        TACT_PANA-EVQ adafruit            (51.89 50.06)         R90
+SW4                        TACT_PANA-EVQ adafruit            (41.69 50.3)          R90
+T1          BPX81          BPX81         opto-trans-siemens  (54.55 91.89)         R0
+TRANSDUCTOR  ASDX015PDAA5  MA04-1        con-lstb            (94.92 97.56)         R0
+U$1         LD33V          LD1117V33     LD1117V33           (17.46 72.62)         R270
+U$2         ESP8266_01     ESP01         esp8266modules      (15.4 45.61)          R90
+X1          16 MHz         HC18U-V       crystal             (22.66 80.04)         R270
+X2          12 Vcc         AK500/2       con-ptr500          (5.95 95.75)          R0
+X3          MOTOR          AK500/2       con-ptr500          (106.08 95.35)        R0
+X4          VALVE          AK500/2       con-ptr500          (117.25 95.45)        R0
